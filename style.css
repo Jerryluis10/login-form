@@ -1,0 +1,125 @@
+body{
+    background-color: #ffff;
+}
+/*css code image*/
+
+.image-jpg{
+    margin-top:10%;
+    margin-left:30%;
+}
+/*css code for image ends here*/
+/*css code for form*/
+.form-section{
+    margin-top:-35%;
+    margin-left:15%
+}
+/*css code for form ends here*/
+/*css code for input button*/
+input{
+    text-align: left;
+    border:1px solid #000000;
+    border-radius:5px;
+    width: 15%;
+    height: 3vh;
+    justify-content: center;
+}
+/* css code for input button*/
+/*css code for login button*/
+.btn-section{
+    text-align: center; 
+    border-radius:8px;
+    background-color: #4f93e0;
+    border-color: #5682e2;
+    width: 15%;
+    height: 4vh;
+    color: #ffff;
+}
+/*css code for login button*/
+a{
+    text-decoration:none;
+    font-size: bold;
+}
+
+h2{
+  text-transform: uppercase;
+  color: #000000;
+  text-align: center;
+  margin-top: 20%;
+}
+table{
+    width: 90%;
+    height: 50vh;
+    border: 5px solid #000000;
+    border-collapse: collapse;
+    margin-left: 5%;
+  
+}
+th{
+    background-color: rgba(87, 70, 70, 0.568);
+    border-collapse: collapse;
+    border: 4px solid #5471d3;
+    height: 10%;
+}
+td{
+    color: #000000;
+    border: 3px solid #4f93e0;
+}
+/* media query for iphone 12pro*/
+@media screen and (max-width:985px)  {
+    .image-jpg{
+        display:none;
+    }
+    .form-section{
+        margin-top:50%;
+        margin-left:10%
+        
+    }
+    .usr{
+        padding-left: 40px;
+        margin-top: 5%;
+        text-size-adjust: 325%;
+        border:1px solid #000000;
+        border-radius:20px;
+        width: 80%;
+        height: 5vh;
+        justify-content: center;
+    }
+    .pswrd{
+        padding-left: 30px;
+        margin-top: 5%;
+        text-size-adjust: 325%;
+        border:1px solid #000000;
+        border-radius:20px;
+        width: 80%;
+        height: 5vh;
+        justify-content: center;
+    }
+    h1{
+        font-size: bold;
+        text-size-adjust: 500%;
+    }
+    
+    p{
+        font-size: bold;
+        margin-top: 5%;
+        text-size-adjust: 300%;
+    }
+    .btn-section{
+        padding-left: 30px;
+        margin-top: 5%;
+        text-size-adjust: 250%;
+        text-align: left; 
+        border-radius:20px;
+        background-color: #4f93e0;
+        border-color: #5682e2;
+        width: 85%;
+        height: 5vh;
+        color: #ffff;
+    }
+    a{
+        font-size: bold;
+    }
+ }
+
+
+    
