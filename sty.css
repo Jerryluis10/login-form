@@ -1,0 +1,151 @@
+body{
+    background-color: white;
+}
+.cal-sec{
+    border: 1px solid #808080;
+    border-radius: 40px;
+    height: 85vh;
+    width: 25%;
+    margin-left: 32%;
+    margin-top: 5%;
+    box-shadow: 5px 5px 10px rgb(104, 121, 197);
+    background-color: black;
+}
+.dk-md{
+    margin-top: 2%;
+    margin-left: 60%;
+    text-decoration: none;
+    color: rgba(155, 148, 148, 0.575);
+}
+.inp-sec{
+    border: 1px solid #a39d9d5d;
+    border-radius: 40px;
+    height: 25vh;
+    width: 95%;
+    margin-left: 2%;
+    margin-top: 8%;
+    
+    text-align: center;
+}
+.button-sec{
+    margin-top: -10%;
+    margin-left: 5%;
+    height: 8vh;
+    width: 90%;
+}
+.btn-sec{
+    margin-top: 15%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: rgb(42, 42, 43);
+    color: gray;
+    background-color: black;
+    box-shadow: 2px 2px 2px  rgb(59, 59, 61);
+}
+.btn-seca{
+    background-color: black;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: rgb(37, 37, 37);
+    color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 2px  rgb(59, 59, 61);
+}
+.btn-secab{
+    background-color: black;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    color: rgb(48, 48, 53);
+    box-shadow: 2px 2px 2px  rgb(59, 59, 61);
+}
+.btn-secb{
+    background-color: black;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: rgb(40, 40, 41);
+    color: white;
+    box-shadow: 2px 2px 2px  rgb(59, 59, 61);
+}
+.btn-secbb{
+    background-color: black;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: rgb(42, 42, 43);
+    color: gray;
+    box-shadow: 2px 2px 2px  rgb(59, 59, 61);
+}
+.btn-secc{
+    background-color: black;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: rgb(42, 42, 43);
+    color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 2px  rgb(59, 59, 61);
+}
+.btn-seccb{
+    background-color: black;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: rgb(43, 44, 44);
+    color: gray;
+    box-shadow: 2px 2px 2px  rgb(59, 59, 61);
+}
+.btn-secdb{
+    background-color: black;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: rgb(38, 38, 39);
+    color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 2px  rgb(59, 59, 61);
+}
+.btn-secd{
+    background-color: black;
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: rgb(86, 87, 88);
+    color: gray;
+    box-shadow: 2px 2px 2px  rgb(59, 59, 61);
+}
+@media screen and (max-width:985px) {
+    .cal-sec{
+        border: 1px solid #808080;
+        border-radius: 40px;
+        height: 85vh;
+        width: 85%;
+        margin-left: 8%;
+        margin-top: 5%;
+        box-shadow: 5px 5px 10px rgb(104, 121, 197);
+    }
+    .button-sec{
+        margin-top: -10%;
+        margin-left: 6%;
+        height: 8vh;
+        width: 90%;
+    }
+}

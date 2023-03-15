@@ -1,0 +1,132 @@
+body{
+    background-color: white;
+}
+.cal-sec{
+    border: 1px solid #808080;
+    border-radius: 40px;
+    height: 85vh;
+    width: 25%;
+    margin-left: 32%;
+    margin-top: 5%;
+    box-shadow: 5px 5px 10px rgb(104, 121, 197);
+}
+.dk-md{
+    margin-top: 2%;
+    margin-left: 60%;
+    text-decoration: none;
+    color: black;
+}
+.inp-sec{
+    border: 1px solid #504a4a5d;
+    border-radius: 40px;
+    height: 25vh;
+    width: 95%;
+    margin-left: 2%;
+    margin-top: 8%;
+    
+    text-align: center;
+}
+.button-sec{
+    margin-top: -10%;
+    margin-left: 5%;
+    height: 8vh;
+    width: 90%;
+}
+.btn-sec{
+    margin-top: 15%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: aliceblue;
+    color: blue;
+}
+.btn-seca{
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: aliceblue;
+    color: rgb(7, 7, 7);
+}
+.btn-secab{
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: aliceblue;
+    color: blue;
+}
+.btn-secb{
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: aliceblue;
+    color: rgb(7, 7, 7);
+}
+.btn-secbb{
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: aliceblue;
+    color: blue;
+}
+.btn-secc{
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: aliceblue;
+    color: rgb(7, 7, 7);
+}
+.btn-seccb{
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: aliceblue;
+    color: blue;
+}
+.btn-secdb{
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: aliceblue;
+    color: rgb(7, 7, 7);
+}
+.btn-secd{
+    margin-top: 3%;
+    margin-left: 3%;
+    height: 8vh;
+    width: 20%;
+    border-radius: 10px;
+    border-color: aliceblue;
+    color: blue;
+}
+@media screen and (max-width:985px) {
+    .cal-sec{
+        border: 1px solid #808080;
+        border-radius: 40px;
+        height: 85vh;
+        width: 85%;
+        margin-left: 8%;
+        margin-top: 5%;
+        box-shadow: 5px 5px 10px rgb(104, 121, 197);
+    }
+    .button-sec{
+        margin-top: -10%;
+        margin-left: 6%;
+        height: 8vh;
+        width: 90%;
+    }
+}
